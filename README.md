@@ -4,3 +4,4 @@ Eloquent just adds another layer on top of the application, which he says is com
 With raw SQL, he is able to draw information directly from the database, using only one query. He says that for some tasks, Eloquent requires multiple SQL-queries, which is bad for the serve
 
 Hello I will test to unstage
+Hell I am phoneayemin.

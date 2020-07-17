@@ -5,3 +5,4 @@ With raw SQL, he is able to draw information directly from the database, using o
 
 Hello I will test to unstage
 Hell I am phoneayemin.
+I am learning about git now.
